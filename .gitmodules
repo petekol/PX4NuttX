@@ -1,6 +1,7 @@
 [submodule "nuttx"]
 	path = nuttx
-	url = https://github.com/PX4-NuttX/nuttx.git
+	url = https://github.com/petekol/nuttx.git
+	branch = upstream
 [submodule "apps"]
 	path = apps
 	url = https://github.com/PX4-NuttX/apps.git
